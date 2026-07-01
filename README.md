@@ -1,4 +1,4 @@
-# 🛡️ Security-Notes
+# Security-Notes
 
 A personal knowledge base for cybersecurity studies, notes, concepts, methodologies, and practical references.
 
@@ -6,7 +6,7 @@ This repository serves as a centralized collection of security-related topics ga
 
 ---
 
-## 📚 Purpose
+## Purpose
 
 The goal of this repository is to:
 
@@ -17,21 +17,3 @@ The goal of this repository is to:
 - Build a public knowledge portfolio
 
 ---
-
-## 📂 Repository Structure
-
-```text
-Security-Notes/
-├── Networking/
-├── Linux/
-├── Windows/
-├── Python/
-├── Web-Security/
-├── Active-Directory/
-├── Privilege-Escalation/
-├── Enumeration/
-├── Blue-Team/
-├── Red-Team/
-├── Cloud/
-├── Certifications/
-└── Resources/
